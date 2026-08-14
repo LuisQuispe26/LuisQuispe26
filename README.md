@@ -55,7 +55,7 @@ El proyecto busca facilitar el registro, gestión y seguimiento de las solicitud
 
 ---
 
-## 🎮 Mi lado Pokémon
+## 🎮 Gogeta
 
 <p align="center">
   <img src="pokemon.png" width="300">
